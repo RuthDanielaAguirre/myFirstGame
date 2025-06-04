@@ -29,9 +29,10 @@ myFirstGame/
 
 
 🛠️ Instrucciones de Instalación y Ejecución
-Clonar el repositorio:
-git clone https://github.com/RuthDanielaAguirre/myFirstGame.git
-Compilar el proyecto:
+
+Clonar el repositorio:  
+git clone https://github.com/RuthDanielaAguirre/myFirstGame.git  
+Compilar el proyecto:  
 
 Asegúrate de tener un compilador de C++ instalado en tu sistema.
 
@@ -39,11 +40,11 @@ Ejecutar el juego:
 
 ./myFirstGame
 
-🧩 Características del Juego
+🧩 Características del Juego  
 Juego de Rol donde el Heroe se enfrenta al Enemigo y si lo derrota finalmente se enfrenta al BOSS
 
 
-📚 Aprendizajes y Retos
+📚 Aprendizajes y Retos  
 Durante el desarrollo de myFirstGame, se abordaron y superaron diversos desafíos, tales como:
 
 Implementación de patrones de diseño para una arquitectura de código limpia y mantenible.
@@ -51,19 +52,19 @@ Implementación de patrones de diseño para una arquitectura de código limpia y
 Lógica de juego en tiempo real.
 
 
-🤝 Contribuciones
-Este proyecto fue desarrollado por Ruth Daniela Aguirre como parte de su formación en desarrollo de software en MONLAU. Las contribuciones, sugerencias y mejoras son bienvenidas. Si deseas contribuir:
+🤝 Contribuciones  
+Este proyecto fue desarrollado por Ruth Daniela Aguirre como parte de su formación en desarrollo de software en MONLAU. Las contribuciones, sugerencias y mejoras son bienvenidas. Si deseas contribuir:  
 
-Haz un fork del repositorio.
+Haz un fork del repositorio.  
 
-Crea una nueva rama: git checkout -b feature/nueva-funcionalidad.
+Crea una nueva rama: git checkout -b feature/nueva-funcionalidad.  
 
-Realiza tus cambios y haz commit: git commit -m 'Agrega nueva funcionalidad'.
+Realiza tus cambios y haz commit: git commit -m 'Agrega nueva funcionalidad'.  
 
 Sube tus cambios: git push origin feature/nueva-funcionalidad.
 
 Abre un Pull Request.
 
-📄 Licencia
+📄 Licencia  
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
