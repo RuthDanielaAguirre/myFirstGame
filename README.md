@@ -24,10 +24,9 @@ myFirstGame/
 │   ├── main.cpp        # Punto de entrada del programa  
 │   ├── Game.cpp        # Lógica principal del juego  
 │   └── ...             # Otros archivos de implementación  
-├── include/            # Archivos de encabezado (.h)  
-├── assets/             # Recursos del juego (imágenes, sonidos, etc.)  
+├── include/            # Archivos de encabezado (.h)   
 ├── README.md           # Documentación del proyecto  
-└── Makefile            # Script para compilar el proyecto  
+
 
 🛠️ Instrucciones de Instalación y Ejecución
 Clonar el repositorio:
